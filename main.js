@@ -7,10 +7,10 @@
 
 
 
-    const currentUser = localStorage.getItem("currentUser");
-    if (currentUser) {
-        document.getElementById("username").textContent = currentUser;
-    }
+    // const currentUser = localStorage.getItem("currentUser");
+    // if (currentUser) {
+    //     document.getElementById("username").textContent = currentUser;
+    // }
 
 
 
