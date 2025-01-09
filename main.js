@@ -1,8 +1,8 @@
   //  التحقق من تسجيل الدخول
-    if (localStorage.getItem("isLoggedIn") !== "true") {
-      alert("يرجى تسجيل الدخول للوصول إلى هذه الصفحة.");
-      window.location.href = "login.html"; // إعادة التوجيه إلى صفحة تسجيل الدخول
-    }
+    // if (localStorage.getItem("isLoggedIn") !== "true") {
+    //   alert("يرجى تسجيل الدخول للوصول إلى هذه الصفحة.");
+    //   window.location.href = "login.html"; // إعادة التوجيه إلى صفحة تسجيل الدخول
+    // }
 
 
 
